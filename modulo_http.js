@@ -1,4 +1,4 @@
-//Buenas profe, tuve que ir chihuahua para llegar a mi papa y no pude estar en la clase de este archivo, me avisaron que podia hacer el repositorio mas tarde
+//Buenas profe, tuve que ir chihuahua para llevar a mi papa a cita y no pude estar en la clase de este archivo, me avisaron que podia hacer el repositorio mas tarde
 //*****************
 //Llamamos el modulo http
 const http = require('http');
